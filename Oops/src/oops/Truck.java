@@ -17,7 +17,7 @@ public class Truck extends Transport {
 
 	@Override
 	char regno() {
-		return 0;
+		return 7698;
 		// TODO Auto-generated method stub
 		
 	}
