@@ -41,5 +41,9 @@ public class Truck extends Transport {
 		// TODO Auto-generated method stub
 		
 	}
+public static void main(String a[]) {
+	Transport trp = new Truck();
+	trp.getName();
 
+}
 }

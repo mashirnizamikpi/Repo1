@@ -42,4 +42,9 @@ public class Car extends Transport{
 		
 	}
 
-}
+	public static void main(String a[]) {
+		Transport trp = new Car();
+		trp.getName();
+
+	}
+	}
