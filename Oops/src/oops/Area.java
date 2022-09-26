@@ -1,7 +1,7 @@
 package oops;
 
 public class Area {
-	protected void area() {
+	public void area() {
 		// TODO Auto-generated method stub
 		  System.out.println("I am" );
 	}
