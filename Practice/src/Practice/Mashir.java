@@ -36,4 +36,16 @@ public class Mashir implements Skeleton,Test{
 		
 	}
 
+	@Override
+	public void random() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void teeth() {
+		// TODO Auto-generated method stub
+		System.out.println("I have 32 teeths");
+	}
+
 }
