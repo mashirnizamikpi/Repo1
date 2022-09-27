@@ -35,10 +35,15 @@ class Exception2 {
 		int a = 1;
 		int b = 0;
 
+
 		try {
 			int i = computeDivision(a, b);
+		
+		}
 
+	
 		catch (ArithmeticException ex) {
+
 
 			System.out.println(ex.getMessage());
 		}
@@ -46,7 +51,7 @@ class Exception2 {
 		catch (Exception ex) {
 
 		}
-
+		
 		finally {
 
 		}
