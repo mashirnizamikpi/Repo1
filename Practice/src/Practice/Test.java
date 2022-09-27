@@ -1,5 +1,6 @@
 package Practice;
 
-public class Test {
+public interface Test {
 
+	void value();
 }
