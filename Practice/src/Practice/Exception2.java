@@ -53,6 +53,7 @@ class Exception2 {
 		}
 		
 		finally {
+			System.out.println("The program runs successfully");
 
 		}
 
