@@ -6,3 +6,4 @@ public interface Test {
 	void random();
 	void teeth();
 }
+
