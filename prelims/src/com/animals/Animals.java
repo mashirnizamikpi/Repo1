@@ -1,5 +1,5 @@
 package com.animals;
 
-public class omnivores {
+public class Animals {
 
 }
