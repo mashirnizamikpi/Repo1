@@ -6,6 +6,7 @@ public class Mashir implements Skeleton,Test{
 		// TODO Auto-generated constructor stub
 	}
 
+	
 	@Override
 	public void brain() {
 		// TODO Auto-generated method stub
