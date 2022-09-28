@@ -7,7 +7,7 @@ public interface Sum {
 	
 	default void show()
 	{
-		System.out.println("Default Method");//default method
+		System.out.println("Addtion performed successfully");//default method
 	}
 	
 class Add implements Sum
