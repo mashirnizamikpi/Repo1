@@ -5,9 +5,11 @@ import org.junit.Test;
 public class PrimeTest {
 	
 	@Test
-	public void checkPrime() {
-		Prime chk = new Prime();
-		int flag = chk.checkPrime(10);
+	 public void evaluatesExpression() {
+		 
+		 Prime prime = new Prime();
+		  String s = prime.isPrime(11);
+	        assertEquals("prime",s);
 		
 		
 	}
