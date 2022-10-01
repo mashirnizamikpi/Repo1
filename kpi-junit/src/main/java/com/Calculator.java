@@ -1,5 +1,4 @@
 package com;
-import org.junit.Test;
 public class Calculator {
 	
 	public int evaluate(String expression) {
