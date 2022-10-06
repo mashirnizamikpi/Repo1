@@ -28,7 +28,7 @@ public class Asylum {
 		stable p8 = (boolean s) -> s;
 		
 			
-		System.out.println();
+		
 		System.out.println("The two people who recovered after 8 months and will get released are - ");
 		
 		if(test.operate(false,p1)==true) {
