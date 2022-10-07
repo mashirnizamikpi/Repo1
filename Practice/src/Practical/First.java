@@ -17,13 +17,10 @@ public class First {
 	
 	Month month = date2.getMonth();
 	int day = date2.getDayOfMonth();
-//First Question Solution
+
 	int year=date2.getYear();
 	System.out.println("Month: "+month+"  day :"+day+" year: "+year);
-	//Second Question Solution	
-	LocalDateTime specificDate=current.withDayOfMonth(7).withMonth(10).withYear(2030);
-	System.out.println("specific date with current time :"+specificDate);
-	
+
 	
 	
 
