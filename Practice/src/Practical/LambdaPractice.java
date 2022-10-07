@@ -7,4 +7,4 @@ public class LambdaPractice implements MathOperation {
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
+}
